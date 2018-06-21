@@ -1,7 +1,7 @@
 language: node_js
 node_js: node
 deploy:
-  app: sheltered-inlet-70078
+  app: https://sheltered-inlet-70078.herokuapp.com/
   provider: heroku
   api_key:
     secure: f1gs5RvotXNvM5M57+vhRn3ME8b8806ZEH+/bTu2eIkrvgtK3v0cUa6feaYVJBbu+EYXLQMcbUyKW/z9Q+bmA0X8pgzzzEeJJEzdlqxVkoh8QEI+cv5Pvt7dSF69lPUdrL1bW5srDaTRRww9pvz+ZNpkE7dS4w1+AQd/HdYFUHI7mKRmGgDQDEXS/GLENngy14WHv5FSU90PK6RsUlryonbsuJLnS+kIfHEhP+OZxvxL0NsV53Qyee2zA7XXhWAKJoJH757PW/6GtTxSczSEZL1Zc+PTMRS0tuLDIKa4yXXHqeK41fCSZXMnhPAeoJmH1wd9FcA8usTf2Fr42mCKcBF+tWqlxY/X9lIB9+I98xZtbreu4irDtmWteFlsonZIPPgclGfeNdtQtFyjx1y9bnJUut6LCoh+je+Y0PeyWHnn/o1qI2PLNIvEhf0Z20Jinbq9SCOwf85vXR8outrQjbY8wr8oxPodxuyr3QLF06258jgTZQjYNqb8vDgqyLHok0aEQvkHadnZFH6DW/HUxswBEcI8ndhlbMZAa/zaZEpJEcrB9UDGUcKqFMxb/Pdjl/ApEvzh9GreKxDKvEL/fHan+ryZbRXOrEpBYt0Bab+b+ghtGCvI3uu9XyD5CDjH0LUvx18oWXoL7E/4jLYnAYJFABde48jvqHDNwbWYKHo=
